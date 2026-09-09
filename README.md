@@ -38,16 +38,16 @@ ABC Chess Academy System is a console application that allows an academy adminis
 ## Getting Started
 
 ```bash
-# Clone the repository
+Clone the repository
 git clone https://github.com/pabasaraperera10/abc-chess-academy-system.git
 
-# Navigate to the project directory
+Navigate to the project directory
 cd abc-chess-academy-system
 
-# Open the project in NetBeans (or compile manually)
+Open the project in NetBeans (or compile manually)
 javac com/mycompany/chessacademy_system/ChessAcademy_System.java
 
-# Run the application
+Run the application
 java com.mycompany.chessacademy_system.ChessAcademy_System
 ```
 
